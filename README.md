@@ -15,4 +15,4 @@
 <img width="416" height="232" alt="Picture2" src="https://github.com/user-attachments/assets/2fab8ad6-7d54-4230-ada6-87ba25abf4f6" />
 <img width="980" height="552" alt="Picture8" src="https://github.com/user-attachments/assets/5c91c77d-5f9b-4b4b-a68c-817ae3e8eee8" />
 
-Game edukasi berbasis Android yang dirancang untuk membantu pengguna belajar sambil bermain. Menyediakan materi interaktif, mini-game, dan tantangan yang membuat proses belajar lebih menyenangkan. Dibangun menggunakan Unity dengan tampilan modern dan performa cepat.
+Game edukasi berbasis Android yang dirancang untuk membantu pengguna belajar sambil bermain. Menyediakan materi interaktif, mini-game, dan tantangan yang membuat proses belajar lebih menyenangkan. Dibangun menggunakan Unity dengan tampilan modern dan performa cepat. game ini bisa didownload di https://gamemeeducationgame.blogspot.com/
