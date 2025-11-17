@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 7c3137c6c111b8747be72a9c309e6f22
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 07c15a8d467150745b5c76037bb06ca1
+  - enabled: 1
+    path: Assets/Scenes/PilihMataPelajaran.unity
+    guid: 1dd0bbabea98f53419cb3df861a5cebe
+  - enabled: 1
+    path: Assets/Scenes/SeniRupa/PilihLevelSeniRupa.unity
+    guid: 9dbad9403b8c4a442b2f736bbf07f0b6
+  - enabled: 1
+    path: Assets/Scenes/SeniRupa/GameSeniRupa.unity
+    guid: 5897e7f1294f4e4458947380b608117c
+  - enabled: 1
+    path: Assets/Scenes/MTK/PilihLevelMatematika.unity
+    guid: 2e0ec63e8e2b09e41821cda7c2809265
+  - enabled: 1
+    path: Assets/Scenes/MTK/GameMatematika.unity
+    guid: da0a042c2b7441d47978d484ba4c76ff
+  - enabled: 1
+    path: Assets/Scenes/Sejarah/PilihLevelSejarah.unity
+    guid: cd8d98e48b43d56478d776aa12c46beb
+  - enabled: 1
+    path: Assets/Scenes/Sejarah/GameSejarah.unity
+    guid: f0ec705dcfc84a241ab0404e2621f20c
+  - enabled: 1
+    path: Assets/Scenes/IPA/PilihLevelIPA.unity
+    guid: b254bbf556eaf81458269e1f88df4b33
+  - enabled: 1
+    path: Assets/Scenes/IPA/GameIPA.unity
+    guid: f41353b9d610b65479bed76e67cd25eb
+  - enabled: 1
+    path: Assets/Scenes/PKN/PilihLevelPKN.unity
+    guid: e56b2d4795baa054aad5fc448ba1cfdd
+  - enabled: 1
+    path: Assets/Scenes/PKN/GamePKN.unity
+    guid: 3cbe3c0e7ade8604ca4dc4845578e23c
+  - enabled: 1
+    path: Assets/Scenes/Bahasa Indoensia/PilihLevelBahasaIndonesia.unity
+    guid: 4f5bba74fc8d4cf499e889d5601b34f8
+  - enabled: 1
+    path: Assets/Scenes/Bahasa Indoensia/GameBahasaIndonesia.unity
+    guid: 3c64d8ed65e12494fa9e98a079322ff4
+  - enabled: 1
+    path: Assets/Scenes/PengetahuanUmum/PilihLevelPengetahuanUmum.unity
+    guid: 8eeda7ec672a8f646946c035c1a4d3ef
+  - enabled: 1
+    path: Assets/Scenes/PengetahuanUmum/GamePengetahuanUmum.unity
+    guid: 9308f1f93605e194685ad4741d019fa4
+  - enabled: 1
+    path: Assets/Scenes/Game0.unity
+    guid: c230bca3bdf411141804ee2a2ae9bf01
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 0ba797d7b101ea749b55b72d9b8f0d2a
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: e2f8a57e13496544bbcf449fe9ab8cfd
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: aa5b2cd142b520e4596c1b58eb916aba
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: ecedbfe8a3b398543b3f47e413f663fd
+  - enabled: 1
+    path: Assets/Scenes/Game5.unity
+    guid: 2becd1b9d35af7344bb049aaaeef6906
+  - enabled: 1
+    path: Assets/Scenes/GameSelesai.unity
+    guid: df66102b7dd50a244999e6335c3afe26
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 3cb6afa9bca4794499c543b3c65bd6fa, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2d75a5feb5c8f534883319023f2da826, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: b76be8d213ae55a489db652153fee5e3, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d5bcff36683346a40a041fb6e4b1ced1, type: 2}

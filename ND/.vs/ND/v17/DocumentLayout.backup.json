@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A1E95E-859B-B0EF-29FF-09AC3ED5C734}|Assembly-CSharp.csproj|d:\\project\\nd\\assets\\levelselectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A1E95E-859B-B0EF-29FF-09AC3ED5C734}|Assembly-CSharp.csproj|solutionrelative:assets\\levelselectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelSelectorController.cs",
+              "DocumentMoniker": "D:\\Project\\ND\\Assets\\LevelSelectorController.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelSelectorController.cs",
+              "ToolTip": "D:\\Project\\ND\\Assets\\LevelSelectorController.cs",
+              "RelativeToolTip": "Assets\\LevelSelectorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:50:22.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
