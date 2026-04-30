@@ -1,5 +1,50 @@
-# Game Education Berbasis Android APK
-![Game Me](https://github.com/user-attachments/assets/ba9f7cd1-c3ec-45cf-8f89-f3728a4d7b5e)
+# 🎮 Game Me - Android Education Game
 
+## Overview
 
-Game edukasi berbasis Android yang dirancang untuk membantu pengguna belajar sambil bermain. Menyediakan materi interaktif, mini-game, dan tantangan yang membuat proses belajar lebih menyenangkan. Dibangun menggunakan Unity dengan tampilan modern dan performa cepat. game ini bisa didownload di https://gamemeeducationgame.blogspot.com/
+Game Me is an Android-based educational application developed to support elementary school students in learning through interactive and engaging gameplay. The application combines basic learning materials with mini-games to create a more enjoyable and accessible learning experience.
+
+The game introduces fundamental topics such as animal and fruit recognition, supported by simple quiz mechanics to reinforce understanding.
+
+## Features
+
+* Interactive mini-games that integrate learning and gameplay
+* Animal recognition module
+* Fruit recognition module
+* Multiple-choice quizzes for evaluation
+* Simple and intuitive interface for young users
+* Offline functionality (no internet connection required)
+
+## Technology Stack
+
+* Unity 2022.3.60f1 (Game Engine)
+* C# (Programming Language)
+* Android SDK, NDK, JDK
+
+## Learning Approach
+
+This project adopts a learning-through-play approach, where users interact directly with visual elements and game mechanics. The goal is to make learning more engaging while maintaining simplicity and ease of use.
+
+## Purpose
+
+* Improve students' motivation to learn through interactive media
+* Provide an alternative learning method using game-based concepts
+* Support independent learning outside the classroom
+
+## Educational Value
+
+* Encourages active and visual learning
+* Helps improve recognition and memory skills
+* Suitable for elementary-level students
+* Combines learning and simple evaluation in one application
+
+## Installation
+
+1. Download the APK file
+2. Enable installation from unknown sources on your device
+3. Install the application
+4. Launch and start learning
+
+## Download
+
+https://gamemeeducationgame.blogspot.com/
