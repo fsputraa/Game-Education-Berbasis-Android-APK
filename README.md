@@ -1,3 +1,5 @@
+<img width="7500" height="3919" alt="Game_Me_Education_Game" src="https://github.com/user-attachments/assets/38a3f661-fee5-436c-9c90-6ea7f90bb183" />
+
 # 🎮 Game Me - Android Education Game
 
 ## Overview
